@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "method":   "Método",
+    "about":    "Nosotros",
+    "horeca":   "HORECA",
+    "cta":      "Agendar diagnóstico"
+  },
+  "hero": {
+    "eyebrow":       "Firma de estructura operativa",
+    "h1_line1":      "Tu empresa crece.",
+    "h1_line2":      "Pero tú trabajas más que nunca.",
+    "subtitle":      "Procesos desordenados, herramientas desconectadas y todo dependiendo de ti. En idalva diseñamos la estructura, los sistemas y la operación que tu negocio necesita para crecer sin caos.",
+    "cta_primary":   "Agendar diagnóstico",
+    "cta_secondary": "Hablar con nosotros"
+  },
+  "marquee": {
+    "phrases": [
+      "Escalar sin caos.",
+      "El dueño no puede ser el sistema.",
+      "Menos Excel. Más claridad.",
+      "Estructura antes que herramientas.",
+      "Crecimiento sin romperse.",
+      "Operaciones que funcionan solas."
+    ]
+  },
+  "problem": {
+    "eyebrow":  "El problema",
+    "h2":       "Tu empresa no necesita más esfuerzo. Necesita estructura.",
+    "body":     "Muchas empresas crecen… pero internamente siguen funcionando desde Excel, mensajes perdidos, procesos improvisados y decisiones que viven solo en la cabeza del dueño. El resultado: más trabajo, más caos y menos control.",
+    "symptoms": [
+      "Todo depende de ti. Si tú paras, la empresa para.",
+      "Las herramientas no están conectadas. La información se pierde.",
+      "Los procesos viven en Excel o en la cabeza de alguien.",
+      "El equipo no puede actuar sin consultarte cada decisión."
+    ]
+  },
+  "method": {
+    "eyebrow": "Método idalva™",
+    "h2":      "Así es como trabajamos.",
+    "steps": [
+      { "num": "01", "title": "Diagnóstico",    "desc": "Nos metemos en las tripas de tu empresa. Detectamos cuellos de botella, procesos rotos, herramientas mal conectadas y todo lo que depende demasiado de ti." },
+      { "num": "02", "title": "Estructura",     "desc": "Diseñamos el blueprint de cómo debe funcionar tu empresa: qué herramientas, qué procesos, qué flujos. Nada se implementa sin validar el encaje con tu realidad." },
+      { "num": "03", "title": "Sistemas",       "desc": "Implementamos y conectamos todo: CRM, ERP, automatizaciones, documentación operativa. Tu empresa empieza a funcionar con lógica, no con improvisación." },
+      { "num": "04", "title": "Escalabilidad",  "desc": "No instalamos herramientas y desaparecemos. Actuamos como directores de orquesta externos para asegurar que el sistema rinde y tú te mantienes en dirección." }
+    ]
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "h2":      "Lo que implementamos en tu empresa.",
+    "items": [
+      { "title": "Estructura Operativa",      "desc": "Diseñamos cómo funciona tu empresa por dentro. Procesos, flujos, documentación.",            "href": "/estructura-operativa",      "icon": "grid" },
+      { "title": "CRM y Gestión Comercial",   "desc": "Pipeline de ventas, captación, seguimiento y cierre sin fricción.",                           "href": "/implementacion-crm",         "icon": "users" },
+      { "title": "ERP y Control Operativo",   "desc": "Stock, facturación, inventario y operaciones conectadas en tiempo real.",                      "href": "/control-operativo-erp",      "icon": "chart" },
+      { "title": "Automatización",            "desc": "Zapier, Make, APIs. Que la información fluya sin que nadie la mueva a mano.",                  "href": "/automatizacion-empresarial", "icon": "bolt" },
+      { "title": "Dirección Estratégica",     "desc": "Supervisión continua, KPIs, ajuste de sistemas y evolución del negocio.",                      "href": "/direccion-estrategica",      "icon": "compass" },
+      { "title": "Especialidad HORECA",       "desc": "Compras, escandallos, stock y rentabilidad para hostelería y restauración.",                   "href": "/digitalizacion-horeca",      "icon": "store" }
+    ]
+  },
+  "horeca": {
+    "eyebrow": "Especialidad HORECA",
+    "h2":      "Expertos en operaciones gastronómicas.",
+    "body":    "Los restaurantes no fallan por falta de talento en cocina. Fallan porque nadie ha organizado cómo funciona la empresa por dentro. Nosotros sí sabemos hacerlo.",
+    "items": [
+      { "title": "Control de compras",       "desc": "Pedidos, proveedores y costes bajo control. Sin depender de la memoria del jefe de cocina." },
+      { "title": "Gestión de stock",         "desc": "Inventario en tiempo real. Cero roturas de stock, cero desperdicio invisible." },
+      { "title": "Escandallos digitales",    "desc": "Coste real por plato. Sabes exactamente qué margen tienes en cada línea del menú." },
+      { "title": "Rentabilidad por turno",   "desc": "KPIs claros por servicio. Decisiones basadas en datos, no en intuición." }
+    ],
+    "tools":    "Trabajamos con Prezo, Holded y herramientas específicas para HORECA.",
+    "cta":      "Ver solución HORECA",
+    "tags": ["Restaurantes", "Hoteles", "Cafeterías", "Catering", "Dark kitchens", "Grupos gastronómicos"]
+  },
+  "impact": {
+    "eyebrow": "La propuesta",
+    "h2":      "No te damos más herramientas. Te damos estructura.",
+    "metrics": [
+      { "value": 40,  "suffix": "%",  "prefix": "+", "label": "más tiempo libre para el fundador" },
+      { "value": 0,   "suffix": "%",  "prefix": "",  "label": "trabajo duplicado tras implementación" },
+      { "value": 4,   "suffix": " fases", "prefix": "", "label": "de implementación estructurada" }
+    ]
+  },
+  "team": {
+    "eyebrow": "El equipo",
+    "h2":      "Ventas y operación trabajando juntas.",
+    "body":    "No venimos de la teoría. Venimos de construir negocios, operar equipos y vivir el caos operativo desde dentro. Eso es lo que nos hace diferentes.",
+    "luis": {
+      "name":  "Luis Idárraga",
+      "role":  "Co-fundador & CEO",
+      "focus": "Estrategia comercial y crecimiento",
+      "quote": "El crecimiento de un negocio no depende de la suerte. Depende de la estructura que exista detrás.",
+      "bio":   "Más de 12 años liderando equipos comerciales y estructurando sistemas de venta en startups y multinacionales. Su especialidad: convertir el caos comercial en un pipeline predecible y escalable."
+    },
+    "melissa": {
+      "name":  "Melissa Villegas",
+      "role":  "Co-fundadora & COO",
+      "focus": "Operaciones, procesos y control",
+      "quote": "El problema no es crecer. El problema es crecer sin estructura.",
+      "bio":   "Economista especializada en operaciones. Ha construido desde cero los sistemas internos de startups tecnológicas en etapas tempranas: procesos, herramientas, documentación y equipos alineados."
+    },
+    "cta": "Conocer el equipo"
+  },
+  "cta_final": {
+    "h2":  "Tu empresa debería darte libertad.",
+    "sub": "No convertirse en otra fuente de caos.",
+    "cta": "Solicitar diagnóstico gratuito"
+  },
+  "contact": {
+    "modal_title": "Cuéntanos sobre tu empresa",
+    "modal_sub":   "Una conversación de 30 minutos puede cambiarlo todo.",
+    "fields": {
+      "name":      "Tu nombre",
+      "company":   "Empresa",
+      "email":     "Email de contacto",
+      "phone":     "Teléfono (opcional)",
+      "challenge": "¿Cuál es tu principal reto operativo?",
+      "submit":    "Enviar solicitud"
+    },
+    "success": "¡Recibido! Te contactamos en menos de 24h.",
+    "error":   "Algo salió mal. Escríbenos directamente a luisidarraga89@gmail.com"
+  },
+  "footer": {
+    "tagline":   "Escalar sin caos. Operar sin límites.",
+    "copyright": "© 2026 idalva · Luis Idárraga & Melissa Villegas · Vilanova i la Geltrú, Barcelona"
+  }
+}
