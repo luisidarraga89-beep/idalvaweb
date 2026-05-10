@@ -10,8 +10,9 @@ export default getRequestConfig(async ({ requestLocale }) => {
   if (!locale || !locales.includes(locale as Locale)) {
     locale = defaultLocale
   }
-  return {
-    locale,
-    messages: (await import(`./messages/${locale}.json`)).default,
-  }
+
+  // Path relative to src/ — messages folder is at src/messages/
+  const messages = (await import(`./messages/${locale}.json`)).default
+
+  return { locale, messages }
 })
